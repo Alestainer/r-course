@@ -2,10 +2,11 @@
 --- 
 title: "R for Data Analysis and Visualization"
 subtitle: |
-  | ECON 396 (Fall 2017)
-  | TR 10:30-11:45, DURP Computer Lab (first floor Saunders)
+  | ECON 396 (Fall 2018)
+  | MWF 10:30 - 11:20, Crawford Hall 114
 author: "Jonathan Page"
-date: "2017-11-12"
+teacher: "Anton Nikolaev"
+date: "2018-20-08"
 site: bookdown::bookdown_site
 output: 
   bookdown::gitbook:
@@ -24,7 +25,7 @@ description: "This is a course on using R focused on data analysis and visualiza
 # Syllabus {-}
 
 ## Office Hours {-}
-Monday 2-3 PM and Tuesday 3-4 PM, or by appointment, Saunders 509, jrpage at hawaii dot edu.
+By appointment, Saunders 525.
 
 ## Student Learning Objectives {-}
 
