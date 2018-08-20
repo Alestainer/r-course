@@ -74,9 +74,8 @@ Your final project participation grade is based on a combination of your own pre
 
 ## Schedule {-}
 
-The following schedule is tentative and subject to change. Typically, the Tuesday class will consist of the week's
-R lecture. Depending on how quickly we get through the material, you will have time to work on your assignment that
-will be due before the following class period. On Thursdays, we will discuss a relevant topic, but you should have
+The following schedule is tentative and subject to change. Typically, the Monday class will consist of the week's
+R lecture. Depending on how quickly we get through the material, you will be able to work on your assignments on Wednesday. On Friday, we will discuss a relevant topic, but you should have
 time to work on your project assignment for the week. That assignment will generally be due before the following class
 period, except for the last several weeks when you are completing your final project.
 
