@@ -21,7 +21,7 @@ install.packages("rmarkdown")
 
 For each assignment, you will create an R Markdown file (*.Rmd) and submit that file by the following class session using [classroom.google.com](https://classroom.google.com). Each class
 has been made using R Markdown, so you can find many examples by going to the GitHub repository
-for this course [github.com/jonpage/r-course](https://github.com/jonpage/r-course)
+for this course [github.com/jonpage/r-course](https://github.com/alestainer/r-course)
 
 ## Working with data already loaded into R
 

@@ -2,8 +2,8 @@
 title: "R for Data Analysis and Visualization"
 subtitle: |
   | ECON 396 (Fall 2018)
-  | MWF 10:30-11:20 AM, Kuykendall Hall 310
-author: "Jonathan Page"
+  | MWF 10:30-11:20 AM, Crawford Hall 114
+author: "Author - Jonathan Page, taught by Anton Nikolaev"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 output: 
@@ -23,7 +23,7 @@ description: "This is a course on using R focused on data analysis and visualiza
 # Syllabus {-}
 
 ## Office Hours {-}
-Monday 2-3 PM and Tuesday 3-4 PM, or by appointment, Saunders 509, jrpage at hawaii dot edu.
+By appointment, Saunders Hall 525, nikolaev at hawaii dot edu.
 
 ## Student Learning Objectives {-}
 
