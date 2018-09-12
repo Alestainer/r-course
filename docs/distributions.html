@@ -457,7 +457,8 @@ code > span.in { color: #808080; font-weight: bold; font-style: italic; } /* Inf
 <div id="the-data" class="section level2 unnumbered">
 <h2>The Data</h2>
 <p>This week we’ll be working with measurements of body dimensions. This data set contains measurements from 247 men and 260 women, most of whom were considered healthy young adults.</p>
-<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="kw">load</span>(<span class="st">&quot;data/bdims.RData&quot;</span>)</code></pre></div>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="kw">download.file</span>(<span class="st">"http://www.openintro.org/stat/data/bdims.RData"</span>, <span class="dt">destfile =</span> <span class="st">"bdims.RData"</span>)
+<span class="kw">load</span>(<span class="st">"bdims.RData"</span>)</code></pre></div>
 <p>Let’s take a quick peek at the first few rows of the data.</p>
 <div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="kw">head</span>(bdims)</code></pre></div>
 <p>You’ll see that for every observation we have 25 measurements, many of which are either diameters or girths. A key to the variable names can be found at <a href="http://www.openintro.org/stat/data/bdims.php" class="uri">http://www.openintro.org/stat/data/bdims.php</a>, but we’ll be focusing on just three columns to get started: weight in kg (<code>wgt</code>), height in cm (<code>hgt</code>), and <code>sex</code> (<code>1</code> indicates male, <code>0</code> indicates female).</p>
